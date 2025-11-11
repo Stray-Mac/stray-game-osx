@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://tomagsvi9.github.io/.github/stray-mac">  
+<a href="https://osx-get-software.github.io/.github/stray-mac">  
 <img src="https://img.shields.io/badge/💻_Play_Stray-darkblue?style=for-the-badge&logo=apple" alt="Play Stray">  
 </a>  
 </div>  
